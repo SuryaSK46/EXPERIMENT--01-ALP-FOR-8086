@@ -1,10 +1,7 @@
+###Name : SURYA.SK
+###Ref no : 212222100052
+
 # EXPERIMENT 01 ALP FOR 8086
-Name : SURYA.SK
-
-Ref no : 212222100052
-
-Date of experiment : 20/02/2024
-
 ## Aim:
 To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required:
